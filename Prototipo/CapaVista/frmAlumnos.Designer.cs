@@ -250,6 +250,7 @@ namespace CapaVista
             this.Controls.Add(this.labelnombrefraccionamiento);
             this.Controls.Add(this.labelidfraccionamiento);
             this.Name = "frmAlumnos";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmAlumnos";
             ((System.ComponentModel.ISupportInitialize)(this.dtgFraccionamiento)).EndInit();
             this.ResumeLayout(false);

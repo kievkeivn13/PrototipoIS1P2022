@@ -81,6 +81,9 @@ namespace CapaVista
             form3.Show();
         }
 
-     
+        private void cerrarSesiónToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+         
+        }
     }
 }
