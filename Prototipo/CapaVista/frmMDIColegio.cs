@@ -48,7 +48,7 @@ namespace CapaVista
 
         private void aulasToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmAlumnos form3 = new frmAlumnos();
+            frmAulas form3 = new frmAulas();
             form3.MdiParent = this;
             form3.Show();
         }

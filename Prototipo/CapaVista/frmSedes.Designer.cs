@@ -178,6 +178,7 @@ namespace CapaVista
             this.Controls.Add(this.labelidfraccionamiento);
             this.Controls.Add(this.navegador1);
             this.Name = "frmSedes";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmSedes";
             ((System.ComponentModel.ISupportInitialize)(this.dtgFraccionamiento)).EndInit();
             this.ResumeLayout(false);

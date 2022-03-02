@@ -59,7 +59,7 @@ namespace CapaVista
             this.txtEstatus.Name = "txtEstatus";
             this.txtEstatus.Size = new System.Drawing.Size(41, 26);
             this.txtEstatus.TabIndex = 69;
-            this.txtEstatus.Tag = "estatus_carreras";
+            this.txtEstatus.Tag = "estatus_carrera";
             this.txtEstatus.Visible = false;
             this.txtEstatus.TextChanged += new System.EventHandler(this.txtEstatus_TextChanged);
             // 
@@ -70,7 +70,7 @@ namespace CapaVista
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(217, 26);
             this.txtNombre.TabIndex = 61;
-            this.txtNombre.Tag = "nombre_carreras";
+            this.txtNombre.Tag = "nombre_carrera";
             // 
             // txtPkid
             // 
@@ -79,7 +79,7 @@ namespace CapaVista
             this.txtPkid.Name = "txtPkid";
             this.txtPkid.Size = new System.Drawing.Size(216, 26);
             this.txtPkid.TabIndex = 60;
-            this.txtPkid.Tag = "codigo_carreras";
+            this.txtPkid.Tag = "codigo_carrera";
             // 
             // rbnHabilitado
             // 
